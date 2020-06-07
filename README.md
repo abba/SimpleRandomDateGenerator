@@ -4,6 +4,8 @@ Simple Date Validation Tests for Random Dates Generator
 
 Windows/Linux/Mac, Maven, Java JDK 8, Google Chrome,
 
-###Test Run
+#Test Run Command
+mvn surefire-report:report
 
-mvn test 
+Test Reports 
+/target/site/surefire-report
